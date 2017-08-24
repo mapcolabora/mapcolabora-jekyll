@@ -8,8 +8,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://mapcolabora.github.io/mapcolabora-jekyll"
-#baseurl: "/projectname"
+url: "http://mapcolabora.github.io/mapcolabora-jekyll"
+baseurl: "mapcolabora-jekyll/"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
