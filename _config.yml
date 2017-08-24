@@ -26,11 +26,10 @@ navbar-links:
   Sobre nosotros: "aboutme"
   Personas: "personas"
   Proyectos: "proyectos"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Recursos:
+    - Lista de correo: "https://groups.google.com/forum/#%21forum/mapeado-colaborativo"
+    - Meetup: "https://www.meetup.com/es-ES/mapcolabora/"
+    - OpenStreetMap: "https://osm.org/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
