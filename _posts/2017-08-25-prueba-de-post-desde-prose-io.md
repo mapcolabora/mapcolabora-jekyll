@@ -6,6 +6,7 @@ subtitle: E instrucciones para usar prose.io
 date: '2017-08-25'
 image: >-
   https://s3.amazonaws.com/kinlane-productions/api-evangelist/prose-io/prose-io-login.png
+author: Carlos Cámara  
 ---
 Este es un post escrito desde [prose.io](http://prose.io), un servicio que ofrece una interfaz para crear y editar posts de [jekyll](http://jekyllrb.com/) algo más amigable que editar archivos de markdown y subirlos a git, en la rama `gh-pages` para que se recompile el sitio web.
 
