@@ -1,8 +1,14 @@
 ---
-title: "Vídeo para la Red ZAC"
-date: 2017-08-24T10:47:53+02:00
-subtitle: "En Zaragoza Activa han hecho un vídeo sobre nosotros y ha quedado molón"
-tags: ["Zaragoza Activa", "Qué hacemos"]
+layout: post
+title: Vídeo para la Red ZAC
+date: 'Thu Aug 24 2017 10:47:53 GMT+0200 (CEST)'
+subtitle: En Zaragoza Activa han hecho un vídeo sobre nosotros y ha quedado molón
+tags:
+  - Zaragoza Activa
+  - Qué hacemos
+published: true
+comments: true
+author: Carlos Cámara
 ---
 
 El pasado mes de enero, desde [Zaragoza Activa](http://blogzac.es/) encargaron la realización de una serie de vídeos para explicar qué hacemos cada uno de sus [grupos residentes](https://www.zaragoza.es/ciudad/sectores/activa/grupos-residentes.htm). Los vídeos, realizados por [La Truca Estudio](http://www.latrucaestudio.es/), tienen una duración de dos minutos y muestran de forma muy resumida y clara las actividades que realizamos. Y como estamos muy contentos y agradecidos con el resultado, compartimos el vídeo que han hecho sobre Mapeado Colaborativo
