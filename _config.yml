@@ -187,7 +187,7 @@ authors: # Multiple authors: https://gist.github.com/ravasthi/1834570
 
 # prose.io config
 prose:
-  rooturl: '_posts'
+  #rooturl: '_posts'
   media: 'img'
   ignore:
     - 404.html
