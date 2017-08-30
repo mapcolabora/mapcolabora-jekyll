@@ -5,7 +5,7 @@ date: "2017-06-12 12:46:24 +0200"
 author: "Carlos Cámara"
 tags: Presentaciones
 image: >-
-  /img/presentacion-osce.png
+  img/presentacion-osce.png
 ---
 
 Poner aquí un resumen de la presentación.
