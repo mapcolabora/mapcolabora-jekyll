@@ -9,7 +9,7 @@ Estas somos algunas de las personas que estamos impulsando Mapeado Colaborativo.
 
 **Carlos Cámara Menoyo**:
 Arquitecto. Investigador. Profesor. Estudiante. Interesado en todo lo relacionado con cultura libre y las comodificaciones entre ciudad, tecnología y sociedad.
-w: http://carloscamara.es  | t: [@carlescamara](twitter.com/carlescamara)
+w: [carloscamara.es](carloscamara.es)  | t: [@carlescamara](twitter.com/carlescamara)
 
 **Héctor Ochoa Ortiz**:
 Estudiante de Ing. Informática en la Univ. de Zaragoza. Apoyando el conocimiento y la cultura libre, apasionado de los mapas, la movilidad urbana y activo contribuidor de OpenStreetMap en la ciudad de Zaragoza.
