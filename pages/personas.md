@@ -9,16 +9,16 @@ Estas somos algunas de las personas que estamos impulsando Mapeado Colaborativo.
 
 **Carlos Cámara Menoyo**:
 Arquitecto. Investigador. Profesor. Estudiante. Interesado en todo lo relacionado con cultura libre y las comodificaciones entre ciudad, tecnología y sociedad.
-w: [carloscamara.es](carloscamara.es)  | t: [@carlescamara](twitter.com/carlescamara)
+w: [carloscamara.es](http://carloscamara.es)  | t: [@carlescamara](http://twitter.com/carlescamara)
 
 **Héctor Ochoa Ortiz**:
 Estudiante de Ing. Informática en la Univ. de Zaragoza. Apoyando el conocimiento y la cultura libre, apasionado de los mapas, la movilidad urbana y activo contribuidor de OpenStreetMap en la ciudad de Zaragoza.
-t: [@HOchoa_](twitter.com/HOchoa_)
+t: [@HOchoa_](http://twitter.com/HOchoa_)
 
 **Miguel Sevilla-Callejo**:
 Doctor en Geografía. Investigador. Profesor. Consultor freelance. Interesado en las dinámicas territoriales, las tecnologías de la información geográfica y el software y herramientas libres.
-t: [@msevilla00](twitter.com/msevilla00)
+t: [@msevilla00](http://twitter.com/msevilla00)
 
 **Alejandro Suárez**:
 Ingeniero Industrial, responsable en la Oficina de Software Libre de UniZar durante dos años, apasionado del Software Libre y miembro de la junta de Púlsar. Contribuidor de OSM desde 2008.
-t: [@alejandroscf](twitter.com/alejandroscf)
+t: [@alejandroscf](http://twitter.com/alejandroscf)
