@@ -9,6 +9,8 @@ tags:
 published: true
 comments: true
 author: Carlos Cámara
+image: >-
+  https://i.ytimg.com/vi/iVk5Dyx4Cgk/hqdefault.jpg
 ---
 
 El pasado mes de enero, desde [Zaragoza Activa](http://blogzac.es/) encargaron la realización de una serie de vídeos para explicar qué hacemos cada uno de sus [grupos residentes](https://www.zaragoza.es/ciudad/sectores/activa/grupos-residentes.htm). Los vídeos, realizados por [La Truca Estudio](http://www.latrucaestudio.es/), tienen una duración de dos minutos y muestran de forma muy resumida y clara las actividades que realizamos. Y como estamos muy contentos y agradecidos con el resultado, compartimos el vídeo que han hecho sobre Mapeado Colaborativo
