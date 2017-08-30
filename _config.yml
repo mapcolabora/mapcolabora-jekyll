@@ -26,7 +26,7 @@ navbar-links:
   Sobre nosotros: "aboutme"
   Personas: "personas"
   Proyectos: "proyectos"
-  Presentaciones: "/tag/Presentaciones"
+  Presentaciones: "tag/Presentaciones"
   Recursos:
     - Lista de correo: "https://groups.google.com/forum/#%21forum/mapeado-colaborativo"
     - Meetup: "https://www.meetup.com/es-ES/mapcolabora/"
